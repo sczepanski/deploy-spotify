@@ -1,0 +1,10 @@
+npm init -y cria sem nenhuma dependência
+
+MongoDB - Cluster criado, acesso ele atráves da opção Database->Clusters, clico no botão BrowseCollections respectivo, dentro de Collections, eu consigo criar a minha Database, ou usar a de exemplo que vem por padrão, para criar vou em + Create Database, escolho o nome dela, e já coloco o nome da categoria, por exemplo, artists ou songs. Crio um objeto dentro dele e configuro como precisar. 
+Network Access - Para estabeler uma conexão global, sem ser um IP fico, escolho a opção + ADD IP ADDRESS, e aperto em ALLOW ALL IPS
+
+O Axios é uma biblioteca do JavaScript usada para fazer requisições HTTP de forma simples e eficiente. Ele é muito utilizado em aplicações front-end e back-end para consumir APIs.
+
+CORS (Cross-Origin Resource Sharing) é um mecanismo de segurança dos navegadores que controla quais origens (domínios) podem acessar recursos de um servidor. Ele impede que um site faça requisições para outro domínio diferente sem permissão.
+
+RESUMO DA API CRIADA - 01:07
